@@ -12,6 +12,7 @@
     "deploy": "npm run build && gh-pages -d out"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.0.9",
     "framer-motion": "^12.4.7",
     "lucide-react": "^0.476.0",
     "next": "15.1.7",
