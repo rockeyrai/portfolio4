@@ -12,10 +12,10 @@ export const Header: React.FC = () => {
             <a href="#skills" className="text-gray-600 hover:text-gray-900">Skills</a>
             <a href="#education" className="text-gray-600 hover:text-gray-900">Education</a>
             <div className="flex items-center space-x-4">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/rockeyrai" target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5 text-gray-600 hover:text-gray-900" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/rockey-rai-669310305/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-5 h-5 text-gray-600 hover:text-gray-900" />
               </a>
             </div>
